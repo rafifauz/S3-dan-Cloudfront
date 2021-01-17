@@ -7,7 +7,7 @@
     <li><a href="#Cloudfront">Cloudfront CDN</a>
     <ul>
         <li><a href="#Macam-macam CDN">Macam-macam CDN</a></li>
-        <li><a href="#Tahap-tahapnya:">Tahap-tahap CDN</a></li>
+        <li><a href="#Tahap-tahapnya:">Tahap-tahapnya: CDN</a></li>
     </ul>
     </li>
     
@@ -43,8 +43,17 @@ merupakan beberapa macam CDN yang tersedia sampai saat ini.
 4. MaxCDN
 5. RackSpace
 6. Dll
-Di AWS sendiri kita memiliki layanan yang memiliki fungsi sebagai Content Delivery
-Network, yaitu adalah Cloudfront.
-### Tahap-tahapnya:
-3. Buat Bucket pada AWS S3
 
+Di AWS sendiri memiliki layanan yang memiliki fungsi sebagai Content Delivery
+Network, yaitu adalah Cloudfront.
+#### Tahap-tahapnya:
+1. Buat Cloudfront dan pilih Origin Domain Name dan Origin ID berdasarkan S3 yang akan kita gunakan
+
+<img src="Image/c.png" width="50%" height="50%">
+2. Isi Default Root Object dengan file yang akan dibuka pertama pada web . Contoh : index.html setelah itu pilih Create Cloudfront
+
+<img src="Image/d.png" width="50%" height="50%">
+
+3. Silahkan megakses web yang dibuat dengan menggunakan DNS pada Cloudfront
+
+<img src="Image/e.png" width="50%" height="50%">
