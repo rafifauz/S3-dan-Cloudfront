@@ -8,7 +8,7 @@
     <a href="#Cloudfront">Cloudfront CDN</a>
     <ul>
         <li><a href="#Macam-macam CDN">Macam-macam CDN</a></li>
-        <li><a href="#Tahap-tahapnya:">Tahap-tahapnya:</a></li>
+        <li><a href="#Tahap-tahapnya">Tahap-tahapnya</a></li>
     </ul>
     </li>
     
