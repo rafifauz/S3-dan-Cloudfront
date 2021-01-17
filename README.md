@@ -19,9 +19,9 @@
 Sebelum melakukan setup pada cloudfront, pertama kita harus menyiapkan erlebih dahulu ebuah bucket di Amazon S3. Karena cloudfront sendiri menggunakan S3 ucket untuk penggunaannya.
 
 Tahap-tahapnya:
-* Buat Bucket pada AWS S3
-	<img src="Image/a.png" width="100" height="100">
-* Upload file index.html dan ubah permisionnya menjadi public
+1. Buat Bucket pada AWS S3
+	<img src="Image/a.png" width="50%" height="50%">
+2. Upload file index.html dan ubah permisionnya menjadi public
 	![](Image/b.png)
 
 <!-- Cloudfront -->
