@@ -6,8 +6,8 @@
     <li><a href="#S3">S3</a></li>
     <li><a href="#Cloudfront">Cloudfront CDN</a>
     <ul>
-        <li><a href="#Macam-macam CDN ">Macam-macam CDN</a></li>
-        <li><a href="#Tahap-tahapnya: ">Tahap-tahap CDN</a></li>
+        <li><a href="#Macam-macam CDN">Macam-macam CDN</a></li>
+        <li><a href="#Tahap-tahapnya:">Tahap-tahap CDN</a></li>
     </ul>
     </li>
     
