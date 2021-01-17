@@ -48,6 +48,7 @@ merupakan beberapa macam CDN yang tersedia sampai saat ini.
 Di AWS sendiri memiliki layanan yang memiliki fungsi sebagai Content Delivery
 Network, yaitu adalah Cloudfront.
 #### Tahap-tahapnya:
+
 1. Buat Cloudfront dan pilih Origin Domain Name dan Origin ID berdasarkan S3 yang akan kita gunakan
 
 <img src="Image/c.png" width="50%" height="50%">
