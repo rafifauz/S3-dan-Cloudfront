@@ -35,6 +35,7 @@ CDN (Content Delivery Network) adalah kumpulan dari server global yang terletak 
 Katakanlah lokasi visitor berada di indonesia, sedangkan server dari website kita berada di US. Karena jarak antara lokasi visitor dan server, pengiriman konten memerlukan proses waktu yang lama. Tapi, dengan adanya server CDN yang berada di beberapa tempat seperti indonesia, india, US, proses pengiriman konten dapat menjadi lebih cepat.
 
 ### Macam-macam CDN
+
 Karena kecanggihan dari laynan CDN ini, banyak sekali platfrom yang menediakan fasilitas
 CDN yang dapat kita gunakan. Mulai dari yang gratis sampai dengan yang berbayar, berikut
 merupakan beberapa macam CDN yang tersedia sampai saat ini.
